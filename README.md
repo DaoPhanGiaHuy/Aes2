@@ -1,5 +1,4 @@
-# Aes2
-**Tiểu luận: Tìm hiểu về thuật toán AES (Advanced Encryption Standard)**  
+# Aes2 
 
 Thuật toán AES (Advanced Encryption Standard) là một trong những chuẩn mã hóa phổ biến nhất hiện nay, được sử dụng rộng rãi trong các hệ thống bảo mật như giao dịch ngân hàng, bảo vệ dữ liệu cá nhân, và mạng viễn thông. AES nổi bật bởi tính bảo mật cao, tốc độ nhanh và khả năng ứng dụng linh hoạt.  
 
